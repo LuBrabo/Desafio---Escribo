@@ -14,3 +14,4 @@ var number = prompt("Digite um valor");
     while(number < 0){
       number = prompt("Digite um valor válido");
     }
+console.log(somatorio(number));
